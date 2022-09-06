@@ -4,24 +4,20 @@
 
 
 <h1 align="center">Hi <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="30"/>, I'm daskyrk <img src="https://komarev.com/ghpvc/?username=daskyrk&label=Profile%20views&color=0e75b6&style=flat" alt="daskyrk" /></h1>
-<h3 align="center">A passionate frontend developer from China 🇨🇳</h3>
+
 
 
 ## About me
 
-💼 Currently working on [volcengine](https://www.volcengine.com/) at Bytedance Inc.
+💼 A passionate frontend developer from China 🇨🇳. Currently working on [volcengine](https://www.volcengine.com/) at Bytedance Inc.
 
 ❤️ I love writing TypeScript, and building fun experiments on type-level
 
-🔭 Passionate about frontend, UE and architecture.
+🔭 Passionate about frontend, UE and architecture etc.
 
 👨‍💻 All of my projects are available at [https://github.com/daskyrk/daskyrk](https://github.com/daskyrk/daskyrk)
 
 📫 How to reach me **daskyrk@gmail.com**
-
-<a href="https://github.com/daskyrk/daskyrk"><img align="center" src="https://github-readme-stats.vercel.app/api?username=daskyrk&show_icons=true&include_all_commits=true&theme=calm&hide_border=true&" alt="daskyrk's github stats" /></a>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daskyrk&" alt="daskyrk" /></p>
 
 ## Languages and Tools
 
