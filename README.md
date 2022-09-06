@@ -7,16 +7,13 @@
 <h3 align="center">A passionate frontend developer from China 🇨🇳</h3>
 
 
-
 ## About me
 
-💼 I'm working at [Terminus.io](https://www.terminus.io) [Erda](http://www.erda.cloud) FE team.
+💼 Currently working on [volcengine](https://www.volcengine.com/) at Bytedance Inc.
 
 ❤️ I love writing TypeScript, and building fun experiments on type-level
 
-🔭 I’m currently working on [erda-ui](https://github.com/erda-project/erda-ui), a cloud native PaaS platform.
-
-🌱 I’m currently learning **Python, UE and product design**
+🔭 Passionate about frontend, UE and architecture.
 
 👨‍💻 All of my projects are available at [https://github.com/daskyrk/daskyrk](https://github.com/daskyrk/daskyrk)
 
